@@ -1,3 +1,45 @@
-# ChatGPT Prompt Engineering for Developers
+# 개발자를 위한 ChatGPT 프롬프트 엔지니어링
 
-https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+## 강의
+
+[강의 보러가기][course]
+
+## Setup
+
+```sh
+pip3 install --upgrade pip
+```
+
+## 관련 라이브러리 설치
+
+### ipykernel
+
+```sh
+pip install -U ipykernel
+```
+
+### openai
+
+```sh
+pip install openai
+```
+
+### python-dotenv
+
+```sh
+pip install python-dotenv
+```
+
+### jupyter
+
+```sh
+pip install jupyter
+```
+
+## jupyter notebook 실행
+
+```sh
+python -m notebook
+```
+
+[course]:https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
