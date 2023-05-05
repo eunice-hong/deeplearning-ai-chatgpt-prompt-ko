@@ -42,6 +42,12 @@ pip install jupyter
 pip install redlines
 ```
 
+### panel for [l8-chatbot](./l8-chatbot.ipynb)
+
+```sh
+pip install panel
+```
+
 ## jupyter notebook 실행
 
 ```sh
