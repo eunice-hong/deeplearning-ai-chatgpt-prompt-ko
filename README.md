@@ -36,6 +36,12 @@ pip install python-dotenv
 pip install jupyter
 ```
 
+### redlines for [l6-transforming](./l6-transforming.ipynb)
+
+```sh
+pip install redlines
+```
+
 ## jupyter notebook 실행
 
 ```sh
